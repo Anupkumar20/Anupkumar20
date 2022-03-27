@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Anup Gupta
-- 👀 I’m interested in c & c+ ,Pythan and html
+- 👀 I’m interested in c & c+ , Python and html
 - 🌱 I’m currently learning bsc.it
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .
 
 <!---
 Anupkumar20/Anupkumar20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
